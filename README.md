@@ -11,7 +11,7 @@ Below are the languages I have come across which are ranked according to profici
 |Programming Languages   |Natural Languages |
 |------------------------|------------------|
 |Python                  |English           |
-|SQL                     |Chinese (Mandarin) - Currently Studying|
+|SQL                     |Chinese (Mandarin) - B1 CEFR Level|
 |HTML & CSS              |Punjabi - Currently Studying|
 |Javascript              |                  |
 |PHP                     |                  |
